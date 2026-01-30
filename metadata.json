@@ -1,0 +1,5 @@
+{
+  "name": "QuestLog",
+  "description": "An AI-powered learning platform that converts PDF textbooks into personalized courses with modules, flashcards, and quizzes.",
+  "requestFramePermissions": []
+}
